@@ -8,7 +8,7 @@ void image1(){
 //CANVAS
 
 //Popoulation
-pic1 = loadImage("../image_used/spiderman.png"); //Dimensions: width:394, height: 128
+pic1 = loadImage("images_used/images_used/spiderman.png"); //Dimensions: width:394, height: 128
 //Note: Dimensions are found in the image file / Right Click / Properties / Details
 //Algorithm : Find the larger dimesion for aspect ration (comparison of two numbers)
 int picWidth1 = 394;
@@ -36,7 +36,6 @@ if( heightLarger1 == true ) imageHeightRatio1 = imageLargerDimension1/ imageLarg
 //Answers must be 1.0 and between 0 & 1 (decimal)
 //Ratio 1.0 similar to style="width:100%" (websites)
 //Ratio of 0-1 similar to style="height:auto" (websites)
-//
 //
 //Note: println() also verifies decimal places, complier will truncate(delete)
 //
