@@ -12,9 +12,9 @@ String RightMidText= "your suuper manz";
 String RightLowText= "your baaman";
 String MidLowText= "your za flaash";
 String LeftLowText="you are GOKU";
-String LeftMidText="You depart the village, taking the path to the snowy mountains";
-String LeftTopText="It is now night, you are lost in the snow, until you realize the celestial lights seem to be guiding you (NightMode is now on)";
-String MidTopText="You spot the cottage, your finally home, yet the light inside are on...(The End)";
+String LeftMidText="your the NARUTO";
+String LeftTopText="your sasuke";
+String MidTopText="YOUR THE SHEEP";
 void rectanglesSetup() {
   //Population
   appWidth=width;

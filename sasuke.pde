@@ -8,7 +8,7 @@ void image7(){
 //CANVAS
 
 //Popoulation
-pic7 = loadImage("../image_used/sasuke.png"); //Dimensions: width:1400, height: 900
+pic7 = loadImage("images_used/images_used/sasuke.png"); //Dimensions: width:1400, height: 900
 //Note: Dimensions are found in the image file / Right Click / Properties / Details
 //Algorithm : Find the larger dimesion for aspect ration (comparison of two numbers)
 int picWidth7 = 1400;

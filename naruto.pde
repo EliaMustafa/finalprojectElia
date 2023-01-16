@@ -8,7 +8,7 @@ void image6(){
 //CANVAS
 
 //Popoulation
-pic6 = loadImage("../image_used/naruto.png"); //Dimensions: width:2016, height: 1320
+pic6 = loadImage("images_used/images_used/naruto.png"); //Dimensions: width:2016, height: 1320
 //Note: Dimensions are found in the image file / Right Click / Properties / Details
 //Algorithm : Find the larger dimesion for aspect ration (comparison of two numbers)
 int picWidth6 = 2016;

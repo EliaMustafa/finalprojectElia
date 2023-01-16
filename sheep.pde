@@ -7,7 +7,7 @@ boolean picDraw8=false;
 void image8(){
 //CANVAS
 //Popoulation
-pic8 = loadImage("../image_used/sheep.png"); //Dimensions: width:1400, height: 900
+pic8 = loadImage("images_used/images_used/sheep.png"); //Dimensions: width:1400, height: 900
 //Note: Dimensions are found in the image file / Right Click / Properties / Details
 //Algorithm : Find the larger dimesion for aspect ration (comparison of two numbers)
 int picWidth8 = 2260;
