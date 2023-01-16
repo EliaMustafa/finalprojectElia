@@ -21,7 +21,7 @@ boolean LeftLow=false;
 //
 void setup() {
   //CANVAS
-  size(800,600);//Landscape
+  size(800,600);//rectangle
   println(width, height, displayWidth, displayHeight);
     if (width>displayWidth) 
 {appWidth=displayWidth;println("CANVAS too big, needed to be readjusted to fit on your monitor.");} else{
@@ -51,7 +51,7 @@ println("CANVAS is Good to go on your display.");}
     backgroundColor = color( random(255), random(255), random(255));
     background( backgroundColor);}
   //
-  buttonFont= createFont ("ZWAdobeF-48", 18);
+  buttonFont= createFont ("Arial", 30);
   
   rectanglesSetup();
   //Single Executed Code
